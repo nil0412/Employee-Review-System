@@ -13,7 +13,7 @@ React, Nodejs, ExpressJs, MongoDB, Java, SpringBoot, Javascript, HTML, CSS...
   - Any user can create their account with role either admin or employee. Both Admin and Employee is given different task.
   - Admin can add, remove or update any user's data. Employee can give their feedback on other employees.
 
-## Environment Variables Backend
+## Environment Variables
 
 To run this project, you will need to add the following environment variables to your __.env__ file in __backend-nodejs__ folder
 
@@ -26,13 +26,13 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-  git clone https://github.com/nil0412/RECOVERO_MERN_SocialMediaDashBoard.git
+  git clone https://github.com/nil0412/Employee-Review-System.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd SocialMediaDashBoard_MERN
+  cd Employee-Review-System
 ```
 
 Install dependencies
